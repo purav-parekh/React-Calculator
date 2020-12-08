@@ -1,0 +1,12 @@
+.btn {
+	padding: 1em;
+	color: white;
+	background-color: #333;
+	border: none;
+	border-radius: 8px;
+	width: 4em;
+}
+
+.operatorBtn {
+	background-color: orange;
+}
